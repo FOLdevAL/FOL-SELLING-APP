@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/FOL-SELLING-APP/static/css/main.2c2013e2.css",
-    "main.js": "/FOL-SELLING-APP/static/js/main.88aaa870.js",
+    "main.js": "/FOL-SELLING-APP/static/js/main.a8d5cc05.js",
     "index.html": "/FOL-SELLING-APP/index.html",
     "main.2c2013e2.css.map": "/FOL-SELLING-APP/static/css/main.2c2013e2.css.map",
-    "main.88aaa870.js.map": "/FOL-SELLING-APP/static/js/main.88aaa870.js.map"
+    "main.a8d5cc05.js.map": "/FOL-SELLING-APP/static/js/main.a8d5cc05.js.map"
   },
   "entrypoints": [
     "static/css/main.2c2013e2.css",
-    "static/js/main.88aaa870.js"
+    "static/js/main.a8d5cc05.js"
   ]
 }
